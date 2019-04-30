@@ -2,7 +2,7 @@
 class Cat
   attr_accessor :name 
   def self.meow
-   puts 
+   puts "meow!"
   end
 end
   maru = Cat.new
